@@ -3,6 +3,7 @@ import pandas as pd
 df = pd.read_csv("tmdb_movies_5000.csv")
 # dropping rows with empty values
 df.dropna(subset=["overview"], inplace=True)
+df.dropna(subset=["genres"], inplace=True)
 # removing extra spaces 
 df = df[df["overview"].str.strip() != ""]
 #Deduplication
