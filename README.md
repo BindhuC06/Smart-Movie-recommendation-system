@@ -42,17 +42,7 @@ After collecting the raw dataset, several preprocessing steps were performed to 
 
 EDA was performed to better understand the dataset.
 ## 1. Dataset Information
-
-Shape of dataset: (3710, 5)
-Columns:
-Index(['title', 'overview', 'genres', 'poster_path', 'vote_average'], dtype='object')
-Data Types:
-title            object
-overview         object
-genres           object
-poster_path      object
-vote_average    float64
-dtype: object
+![App Screenshot](results/eda1.png)
 
 ## 2. Identifying the most popular Genre
 
@@ -63,30 +53,7 @@ According to the analysis performed the most loved or populor genre is darma fol
 
 
 ## 3. Finding the most and the least rated movies 
-
-Index         title          vote_average
-712       METILNATOR I          10.0
-2007           Unravel          10.0
-1980        Scenarioso          10.0
-2702    DCW: THE MOVIE          10.0
-837      Semi-Detached          10.0
-3444  Rock Solid Alibi          10.0
-1986         Her Story          10.0
-2917     Wizard Planet          10.0
-1995         Nixieland          10.0
-1998      First Nights          10.0
-
-3204         The Gang           0.0
-1440        Não Temas           0.0
-2811  Spring Blossoms           0.0
-1432        Moon Town           0.0
-1424          Fragile           0.0
-3214       Septicemia           0.0
-3216            Storm           0.0
-1422          Lab Rat           0.0
-1420      BLOODSUCKER           0.0
-3709       Antarvasna           0.0
-
+![App Screenshot](results/eda2.png)
 ---
 
 # Installation
