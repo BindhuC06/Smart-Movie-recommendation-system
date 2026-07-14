@@ -43,7 +43,7 @@ def recommend_movies(user_query, top_k=5):
             print(f"   [Vector Distance: {distance_score:.4f}]\n")
 
 # sample output :
-recommend_movies("scary psychological horror movie set in space")
+#recommend_movies("scary psychological horror movie set in space")
 # recommend_movies("heartwarming animated family comedy", top_k=3)
 # 🎯 Top 3 Recommendations for: 'scary psychological horror movie set in space'
 # ------------------------------------------------------------
