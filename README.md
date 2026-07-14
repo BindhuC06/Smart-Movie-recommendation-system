@@ -53,7 +53,7 @@ According to the analysis performed the most loved or populor genre is darma fol
 
 
 ## 3. Finding the most and the least rated movies 
-![App Screenshot](results/eda2.png)
+![App Screenshot](results/eda2.png)git 
 ---
 
 # Installation
