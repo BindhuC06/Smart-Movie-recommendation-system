@@ -52,7 +52,7 @@ with st.spinner("Initializing Deep Learning Models & Vector Spaces..."):
 # 2. CORE QUERY ENGINE
 # ==========================================================
 
-def search_movies(query_text=None, query_vector_idx=None, top_k=30):
+def search_movies(query_text=None, query_vector_idx=None, top_k=10):
     """
     Dual-mode query execution engine supporting text queries or direct vector index lookups.
     """
