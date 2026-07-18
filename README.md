@@ -6,6 +6,7 @@ This **Smart Movie Recommendation System** is a content-based recommendation pro
 
 ---
 
+
 # Objectives
 
 -Collection of data from the database and performing cleaning and exploratory data analysis of this clean data.
